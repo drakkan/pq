@@ -202,7 +202,7 @@ localhost:*:*:*:pass_C
 			"connect_timeout":    "20",
 			"user":               "majid",
 			"port":               "5432",
-			"extra_float_digits": "2",
+			"extra_float_digits": "3",
 			"dbname":             "pqgotest",
 			"client_encoding":    "UTF8",
 			"datestyle":          "ISO, MDY",
